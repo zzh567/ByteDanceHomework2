@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginAndUsers</string>
+    <string name="title_activity_userpage">UserpageActivity</string>
+</resources>
